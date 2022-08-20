@@ -2,3 +2,4 @@ import streamlit as st
 import nltk
 from tkinter import Button
 from nltk.tokenize import RegexpTokenizer
+import pandas as pd

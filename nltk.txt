@@ -1,2 +1,2 @@
-RegexpTokenizer
-pos_tag
+nltk.RegexpTokenizer
+nltk.pos_tag

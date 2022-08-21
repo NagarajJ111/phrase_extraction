@@ -1,2 +1,3 @@
-nltk.RegexpTokenizer
-nltk.pos_tag
+tokenize
+tag
+parse
